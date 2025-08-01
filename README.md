@@ -1,4 +1,4 @@
-### ddoslab
+### doslab
 
 A hands-on penetration testing lab for safely simulating **UDP** and **SYN Flood** attacks on a controlled local server. This project is designed to help aspiring red teamers, penetration testers, and cybersecurity learners understand how network-layer denial-of-service attacks work by safely simulating real-world UDP and SYN floods in a controlled lab. By building the attack tools from scratch, observing their effects, and analyzing network behavior, you gain a strong foundation in offensive security, packet manipulation, and ethical exploitation. All outcome are documented in png format under files.
 
